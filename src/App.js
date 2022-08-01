@@ -1,7 +1,8 @@
 import "./App.css";
+import Header from "./Containers/header/Header";
 
 function App() {
-  return <></>;
+  return <Header />;
 }
 
 export default App;
